@@ -1,3 +1,13 @@
 h1 {
     color: blue;
 }
+
+button {
+    border: none;
+    padding: 10px 20px;
+    background-color: #fb22bb;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+}
