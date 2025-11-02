@@ -6,3 +6,16 @@ mainBtn.addEventListener('click', () => {
     <h2>Heading2</h2>
     <button type="reset" id="btn-main" class="btn">Login</button>`
 })
+
+const users = {
+    userName: "Vikram Singh",
+    userEmail: "useremail@gmail.com",
+    userMobile: 1234567890,
+    address: {
+        village: 'village',
+        dist: 'Jhalawar',
+        state: "Rajasthan",
+        pincode: 326034
+    }
+}
+
