@@ -11,3 +11,13 @@ button {
     cursor: pointer;
     font-size: 18px;
 }
+
+.btn {
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    background-color: #7015ca;
+    color: #ffffff;
+}
